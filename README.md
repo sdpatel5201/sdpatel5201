@@ -5,6 +5,7 @@ I'm currently working on data science projects and exploring more topic for data
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujal36303) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sujal-donga-57b16326a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sujaldonga27@gmail.com)
 
 
 # 💻 Tech Stack:
